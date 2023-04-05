@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="313" height="167" viewBox="0 0 313 167">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="auto" height="auto" viewBox="0 0 313 167">
   <defs>
     <filter id="Rectangle_771" x="0" y="0" width="313" height="167" filterUnits="userSpaceOnUse">
       <feOffset dy="3" input="SourceAlpha"/>
