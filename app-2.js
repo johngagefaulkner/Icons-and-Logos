@@ -1,6 +1,6 @@
 const fetchData = async () => {
     try {
-        const response = await fetch("https://api.github.com/repos/johngagefaulkner/Icons-and-Logos/contents/src/svg/Microsoft/2024-microsoft-365-content-icons");
+        const response = await fetch("https://api.github.com/repos/johngagefaulkner/Icons-and-Logos/contents/src/svg/Microsoft/Azure/Azure-Public-Service-Icons-v18");
         const data = await response.json();
         return data;
     } catch (error) {
