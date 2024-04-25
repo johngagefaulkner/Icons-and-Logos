@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 16 16">
+  <path fill="#FAFAFA" d="M6.5.5h-5a1 1 0 00-1 1v5a1 1 0 001 1h3v3a1 1 0 001 1h4v3a1 1 0 001 1h4a1 1 0 001-1v-4.086a1 1 0 00-.293-.707l-1.914-1.914a1 1 0 00-.707-.293H11.5v-2a1 1 0 00-1-1h-3v-3a1 1 0 00-1-1z"/>
+  <path fill="#555" fill-rule="evenodd" d="M1.5 1a.5.5 0 00-.5.5v5a.5.5 0 00.5.5h3v1h-3A1.5 1.5 0 010 6.5v-5A1.5 1.5 0 011.5 0h5A1.5 1.5 0 018 1.5v3H7v-3a.5.5 0 00-.5-.5h-5z" clip-rule="evenodd"/>
+  <path fill="#555" fill-rule="evenodd" d="M5.5 5a.5.5 0 00-.5.5v5a.5.5 0 00.5.5h4v1h-4A1.5 1.5 0 014 10.5v-5A1.5 1.5 0 015.5 4h5A1.5 1.5 0 0112 5.5v2h-1v-2a.5.5 0 00-.5-.5h-5z" clip-rule="evenodd"/>
+  <path fill="#555" fill-rule="evenodd" d="M8.354 9.06a.5.5 0 00-.708 0l-2.292 2.294-.708-.707L6.94 8.354a1.5 1.5 0 012.122 0l.793.793-.708.707-.792-.793z" clip-rule="evenodd"/>
+  <path fill="#555" fill-rule="evenodd" d="M10.5 8a.5.5 0 00-.5.5v6a.5.5 0 00.5.5h4a.5.5 0 00.5-.5v-4.086a.5.5 0 00-.146-.353l-1.915-1.915A.5.5 0 0012.586 8H10.5zM9 8.5A1.5 1.5 0 0110.5 7h2.086a1.5 1.5 0 011.06.44l1.915 1.914a1.5 1.5 0 01.439 1.06V14.5a1.5 1.5 0 01-1.5 1.5h-4A1.5 1.5 0 019 14.5v-6z" clip-rule="evenodd"/>
+  <path fill="#555" fill-rule="evenodd" d="M12 9.5V8h1v1.5a.5.5 0 00.5.5H15v1h-1.5A1.5 1.5 0 0112 9.5zM3 2H2v1h1V2zM6 2H5v1h1V2zM3 4H2v1h1V4zM3 6H2v1h1V6z" clip-rule="evenodd"/>
+  <path fill="#555" d="M10 6.5a.5.5 0 11-1 0 .5.5 0 011 0z"/>
+</svg>

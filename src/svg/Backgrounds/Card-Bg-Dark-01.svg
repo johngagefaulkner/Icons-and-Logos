@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="245px" height="120px" viewBox="0 0 245 120" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="objectBoundingBox" x1="-0.05333347" y1="-0.41154167" x2="0.6052571" y2="1.4790334" id="gradient_1">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0" />
+      <stop offset="100%" stop-color="#00A3FF" stop-opacity="0.14901961" />
+    </linearGradient>
+  </defs>
+  <g id="Card-Bg-Dark-01">
+    <path d="M0 0L245 0L245 120L0 120L0 0Z" id="Rectangle-Background" fill="#2C2C2C" fill-opacity="0.8" fill-rule="evenodd" stroke="none" />
+    <path d="M0 0L245 0L245 120L0 120L0 0Z" id="Rectangle-Linear-Gradient-Top" fill="url(#gradient_1)" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>

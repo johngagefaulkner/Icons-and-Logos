@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="Auto" height="Auto" viewBox="0 0 512 512" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient gradientUnits="objectBoundingBox" cx="59.463764%" cy="27.088356%" fx="59.463764%" fy="27.088356%" r="93.828835%" gradientTransform="translate(0.59463763,0.27088356),scale(0.8393911,1),rotate(111.65873),translate(-0.59463763,-0.27088356)" id="gradient_1">
+      <stop offset="6.300002%" stop-color="#C03BC4" />
+      <stop offset="36.5%" stop-color="#EB2F89" />
+      <stop offset="75%" stop-color="#FF5C39" />
+      <stop offset="100%" stop-color="#FFB09F" />
+    </radialGradient>
+    <radialGradient gradientUnits="objectBoundingBox" cx="59.463764%" cy="27.088356%" fx="59.463764%" fy="27.088356%" r="93.46281%" gradientTransform="translate(0.59463763,0.27088356),scale(0.86446303,1),rotate(111.08649),translate(-0.59463763,-0.27088356)" id="gradient_2">
+      <stop offset="6.300002%" stop-color="#C03BC4" />
+      <stop offset="36.5%" stop-color="#EB2F89" />
+      <stop offset="75%" stop-color="#FF5C39" />
+      <stop offset="100%" stop-color="#FFB09F" />
+    </radialGradient>
+    <linearGradient gradientUnits="objectBoundingBox" x1="0.5" y1="0" x2="0.5" y2="1" id="gradient_3">
+      <stop offset="0%" stop-color="#C21CF4" />
+      <stop offset="45.83171%" stop-color="#CD1DDD" />
+      <stop offset="100%" stop-color="#FF0066" />
+    </linearGradient>
+    <linearGradient gradientUnits="objectBoundingBox" x1="0.5" y1="0" x2="0.5" y2="1" id="gradient_4">
+      <stop offset="0%" stop-color="#B032E7" />
+      <stop offset="59.99682%" stop-color="#CF60EA" />
+      <stop offset="100%" stop-color="#FF0066" />
+    </linearGradient>
+    <linearGradient gradientUnits="objectBoundingBox" x1="0.875972" y1="-0.061024874" x2="0.87547225" y2="0.21104032" id="gradient_5">
+      <stop offset="5.799999%" stop-color="#F8ADFA" />
+      <stop offset="70.8%" stop-color="#A86EDD" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <g id="Logo-Copilot-dotNET">
+    <path d="M0 0L512 0L512 512L0 512L0 0Z" id="Rectangle-2" fill="none" fill-rule="evenodd" stroke="none" />
+    <g id="Group" transform="translate(0 32)">
+      <path d="M373.998 38.1494C367.287 15.5395 346.501 0.0250816 322.898 0.00823223L305.492 0.00823223C280.086 0.00823223 258.168 17.9439 253.208 42.8491L223.451 191.641L231.802 165.17C238.797 142.992 259.374 127.905 282.646 127.892L376.494 127.892L416.298 160.694L451.751 127.892L440.456 127.892C416.841 127.889 396.039 112.372 389.325 89.7503L373.998 38.1494L373.998 38.1494Z" id="Shape" fill="url(#gradient_1)" stroke="none" />
+      <path d="M143.554 409.235C150.177 431.966 171.04 447.6 194.749 447.6L229.754 447.6C258.424 447.6 282.006 424.901 283.03 396.255L288.149 255.775L280.086 282.055C273.211 304.441 252.518 319.721 229.083 319.717L134.691 319.717L95.3341 294.971L66.2486 319.717L77.3837 319.717C101.062 319.717 121.924 335.35 128.579 358.082L143.554 409.235L143.554 409.235Z" id="Shape" fill="url(#gradient_2)" stroke="none" />
+      <path d="M320.019 0.00822842L133.379 0.00822842C80.0394 0.00822842 48.0422 67.083 26.7 134.158C1.42223 213.573 -31.6309 319.876 64.0408 319.876L145.602 319.876C169.184 319.876 189.95 304.466 196.733 281.895C210.78 235.122 235.13 154.331 254.328 92.7236C264.151 61.2324 272.311 34.217 284.854 17.3684C293.052 6.21183 306.169 -0.263637 320.019 0.00823223L320.019 0.00822842Z" id="Shape" fill="url(#gradient_3)" stroke="none" />
+      <path d="M191.998 447.6L378.638 447.6C431.977 447.6 463.974 380.557 485.284 313.514C510.562 234.067 543.647 127.86 447.976 127.86L366.383 127.86C342.833 127.86 322.066 143.27 315.283 165.841C296.333 229.075 277.099 292.219 257.581 355.278C247.758 386.769 239.598 413.784 227.055 430.633C220.016 440.064 208.337 447.961 191.858 447.961L191.998 447.6Z" id="Shape" fill="url(#gradient_4)" stroke="none" />
+      <path d="M191.998 447.6L378.638 447.6C431.977 447.6 463.974 380.557 485.284 313.514C510.562 234.067 543.647 127.86 447.976 127.86L366.383 127.86C342.833 127.86 322.066 143.27 315.283 165.841C296.333 229.075 277.099 292.219 257.581 355.278C247.758 386.769 239.598 413.784 227.055 430.633C220.016 440.064 208.337 447.961 191.858 447.961L191.998 447.6Z" id="Shape" fill="url(#gradient_5)" stroke="none" />
+    </g>
+  </g>
+</svg>
