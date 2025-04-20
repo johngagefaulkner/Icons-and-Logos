@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 1512 1077">
+  <g clip-path="url(#a)">
+    <g filter="url(#b)">
+      <path fill="url(#c)" fill-opacity=".4" d="M427 398c-96 78-285.8-5.3-411-130.5-70.4-70.4-99-151.333-104.5-183V318s119 174.5 240 207l1.456.391C272.997 557.639 334.871 574.262 575.5 267.5c183.223-231.387 380.746 64.351 640.56 453.352l5.44 8.148c210 314.4 307.17-143 329.5-411V117c-30.33 159.333-138.7 466.3-329.5 419.5-238.5-58.5-204-380-447-388.5C580.1 141.2 523 320 427 398Z"/>
+    </g>
+    <g filter="url(#d)">
+      <path fill="url(#e)" fill-opacity=".2" d="M427 289.5c-96 78-285.8-5.3-411-130.5C-54.4 88.6001-83 7.66671-88.5-24v233.5s119 174.5 240 207l1.456.391C272.997 449.139 334.871 465.762 575.5 159c183.223-231.387 380.746 64.351 640.56 453.352l5.44 8.148c210 314.4 307.17-143 329.5-411V8.5c-30.33 159.333-138.7 466.3-329.5 419.5-238.5-58.5-204-379.9999-447-388.4999C580.1 32.7001 523 211.5 427 289.5Z"/>
+    </g>
+  </g>
+  <defs>
+    <linearGradient id="c" x1="-88.5" x2="479.927" y1="84.5" y2="1325.77" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#143DF4"/>
+      <stop offset="1" stop-color="#3DF414"/>
+    </linearGradient>
+    <linearGradient id="e" x1="-88.5" x2="479.927" y1="-24" y2="1217.27" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3DF414"/>
+      <stop offset="1" stop-color="#143DF4"/>
+    </linearGradient>
+    <filter id="b" width="1839.5" height="950.789" x="-188.5" y="-15.5" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur result="effect1_foregroundBlur_117_5613" stdDeviation="50"/>
+    </filter>
+    <filter id="d" width="1839.5" height="950.789" x="-188.5" y="-124" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur result="effect1_foregroundBlur_117_5613" stdDeviation="50"/>
+    </filter>
+    <clipPath id="a">
+      <path fill="white" d="M0 0h1512v1077H0z"/>
+    </clipPath>
+  </defs>
+</svg>
