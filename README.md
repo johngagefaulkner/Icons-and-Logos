@@ -11,10 +11,8 @@ Each icon *should* conform to the following standards:
 
 ## Examples
 
-<img height="96" width="96" src="svg/microsoft/365/Microsoft-365-Admin-Center-v2.svg" />
+<img height="96" width="96" src="src/svg/UI/Avatars/Fluent-User-Avatar-Light.svg" />
 
-<img height="96" width="96" src="svg/UI/Avatars/Fluent-User-Avatar-Light.svg" />
+<img height="96" width="96" src="src/svg/Mozilla/Firefox.svg" />
 
-<img height="96" width="96" src="svg/Mozilla/Firefox.svg" />
-
-<img height="96" width="96" src="svg/Adobe/Creative-Cloud.svg" />
+<img height="96" width="96" src="src/svg/Adobe/Creative-Cloud.svg" />
