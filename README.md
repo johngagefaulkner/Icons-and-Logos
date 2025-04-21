@@ -11,8 +11,8 @@ Each icon *should* conform to the following standards:
 
 ## Examples
 
-<img height="96" width="96" src="src/svg/UI/Avatars/Fluent-User-Avatar-Light.svg" />
-
-<img height="96" width="96" src="src/svg/Mozilla/Firefox.svg" />
-
-<img height="96" width="96" src="src/svg/Adobe/Creative-Cloud.svg" />
+| **Icon** |     **Name**     |
+|:--------:|:----------------:|
+|     <img height="96" width="96" src="src/Fluent/Emoji/GameMessage.svg" />    |   Game Message   |
+|     <img height="96" width="96" src="src/Fluent/Emoji/Gift.svg" />    |       Gift       |
+|     <img height="96" width="96" src="src/svg/UI/Icons/WaferStyle/DownloadSignin_Light.svg" />    | Device - Sign In |
