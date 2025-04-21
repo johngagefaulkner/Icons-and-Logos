@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+  <path fill="url(#a)" d="M21 7.5v10.25c0 1.7949-1.4551 3.25-3.25 3.25H6.25C4.45507 21 3 19.5449 3 17.75V7.5l9-1 9 1Z"/>
+  <path fill="url(#b)" d="M21 7.5v10.25c0 1.7949-1.4551 3.25-3.25 3.25H6.25C4.45507 21 3 19.5449 3 17.75V7.5l9-1 9 1Z"/>
+  <g filter="url(#c)">
+    <path fill="url(#d)" d="M7.25 15c.69036 0 1.25.5596 1.25 1.25s-.55964 1.25-1.25 1.25S6 16.9404 6 16.25 6.55964 15 7.25 15ZM12 15c.6904 0 1.25.5596 1.25 1.25S12.6904 17.5 12 17.5s-1.25-.5596-1.25-1.25S11.3096 15 12 15Zm-4.75-4.5c.69036 0 1.25.5596 1.25 1.25S7.94036 13 7.25 13 6 12.4404 6 11.75s.55964-1.25 1.25-1.25Zm4.75 0c.6904 0 1.25.5596 1.25 1.25S12.6904 13 12 13s-1.25-.5596-1.25-1.25.5596-1.25 1.25-1.25Zm4.75 0c.6904 0 1.25.5596 1.25 1.25S17.4404 13 16.75 13s-1.25-.5596-1.25-1.25.5596-1.25 1.25-1.25Z"/>
+  </g>
+  <path fill="url(#e)" d="M17.75 3C19.5449 3 21 4.45507 21 6.25V8H3V6.25C3 4.45507 4.45507 3 6.25 3h11.5Z"/>
+  <defs>
+    <linearGradient id="a" x1="15.25" x2="9.83449" y1="22.7807" y2="7.32114" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#B3E0FF"/>
+      <stop offset="1" stop-color="#B3E0FF"/>
+    </linearGradient>
+    <linearGradient id="b" x1="13.9286" x2="16.625" y1="12.4318" y2="24.267" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#DCF8FF" stop-opacity="0"/>
+      <stop offset="1" stop-color="#FF6CE8" stop-opacity=".7"/>
+    </linearGradient>
+    <linearGradient id="d" x1="10.9091" x2="13.0595" y1="9.69231" y2="23.6971" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0078D4"/>
+      <stop offset="1" stop-color="#0067BF"/>
+    </linearGradient>
+    <linearGradient id="e" x1="3" x2="18.3717" y1="3" y2="-1.96312" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0094F0"/>
+      <stop offset="1" stop-color="#2764E7"/>
+    </linearGradient>
+    <filter id="c" width="14.6667" height="9.66667" x="4.66667" y="9.83333" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+      <feOffset dy=".666667"/>
+      <feGaussianBlur stdDeviation=".666667"/>
+      <feColorMatrix values="0 0 0 0 0.1242 0 0 0 0 0.323337 0 0 0 0 0.7958 0 0 0 0.32 0"/>
+      <feBlend in2="BackgroundImageFix" result="effect1_dropShadow_13847_1260"/>
+      <feBlend in="SourceGraphic" in2="effect1_dropShadow_13847_1260" result="shape"/>
+    </filter>
+  </defs>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48">
+  <path fill="url(#a)" d="M27.2245 27c-2.0711 0-3.75 1.6789-3.75 3.75V31s0 8 10.5 8h.0247c10.5 0 10.5-8 10.5-8v-.25c0-2.0711-1.679-3.75-3.75-3.75H27.2245Z"/>
+  <path fill="url(#b)" fill-opacity=".5" d="M27.2245 27c-2.0711 0-3.75 1.6789-3.75 3.75V31s0 8 10.5 8h.0247c10.5 0 10.5-8 10.5-8v-.25c0-2.0711-1.679-3.75-3.75-3.75H27.2245Z"/>
+  <path fill="url(#c)" d="M6.75 27C4.67893 27 3 28.6789 3 30.75V32s0 9 13 9 13-9 13-9v-1.25c0-2.0711-1.6789-3.75-3.75-3.75H6.75Z"/>
+  <path fill="url(#d)" d="M6.75 27C4.67893 27 3 28.6789 3 30.75V32s0 9 13 9 13-9 13-9v-1.25c0-2.0711-1.6789-3.75-3.75-3.75H6.75Z"/>
+  <path fill="url(#e)" d="M34 24c3.3137 0 6-2.6863 6-6s-2.6863-6-6-6-6 2.6863-6 6 2.6863 6 6 6Z"/>
+  <path fill="url(#f)" d="M16 24c4.4183 0 8-3.5817 8-8s-3.5817-8-8-8-8 3.5817-8 8 3.5817 8 8 8Z"/>
+  <defs>
+    <linearGradient id="a" x1="28.4742" x2="32.7833" y1="28.5952" y2="40.6503" gradientUnits="userSpaceOnUse">
+      <stop offset=".125321" stop-color="#9C6CFE"/>
+      <stop offset="1" stop-color="#7A41DC"/>
+    </linearGradient>
+    <linearGradient id="c" x1="9.1829" x2="13.9855" y1="28.8611" y2="43.1028" gradientUnits="userSpaceOnUse">
+      <stop offset=".125321" stop-color="#BD96FF"/>
+      <stop offset="1" stop-color="#9C6CFE"/>
+    </linearGradient>
+    <linearGradient id="d" x1="16" x2="22.7485" y1="25.3333" y2="48.75" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#885EDB" stop-opacity="0"/>
+      <stop offset="1" stop-color="#E362F8"/>
+    </linearGradient>
+    <linearGradient id="e" x1="30.8536" x2="36.9693" y1="13.5952" y2="23.3605" gradientUnits="userSpaceOnUse">
+      <stop offset=".125321" stop-color="#9C6CFE"/>
+      <stop offset="1" stop-color="#7A41DC"/>
+    </linearGradient>
+    <linearGradient id="f" x1="11.8049" x2="19.9591" y1="10.127" y2="23.1474" gradientUnits="userSpaceOnUse">
+      <stop offset=".125321" stop-color="#BD96FF"/>
+      <stop offset="1" stop-color="#9C6CFE"/>
+    </linearGradient>
+    <radialGradient id="b" cx="0" cy="0" r="1" gradientTransform="matrix(13.83637078 -1.7499986 1.77489353 14.0332027 20.8075 33)" gradientUnits="userSpaceOnUse">
+      <stop offset=".392122" stop-color="#3B148A"/>
+      <stop offset="1" stop-color="#3B148A" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>
